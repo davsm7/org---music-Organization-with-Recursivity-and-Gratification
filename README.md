@@ -1,4 +1,4 @@
-# org — Music Organization with Recursivity and Gratification
+# org — music Organization with Recursivity and Gratification
 
 Organizador y sanitizador de bibliotecas de audio por metadatos.
 
